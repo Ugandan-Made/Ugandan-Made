@@ -2,6 +2,8 @@
 
 A collection of open source projects and tools built by Ugandan developers.
 
+> Note: Projects are organized alphabetically. When adding new projects, please ensure they are placed under the correct letter section. For multiple projects starting with the same letter, maintain alphabetical order within that section.
+
 ## 📚 Table of Contents
 
 - [A](#a)
