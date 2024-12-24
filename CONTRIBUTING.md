@@ -11,6 +11,7 @@ To add a project, make sure it meets these criteria:
 1. The project is open source
 2. The project was created by a Ugandan developer or organization
 3. The project has a clear description and documentation
+4. The project should have at least 15 stars on GitHub.
 
 #### Project Format
 

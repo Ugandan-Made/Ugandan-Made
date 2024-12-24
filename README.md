@@ -33,19 +33,19 @@ A collection of open source projects and tools built by Ugandan developers.
 
 ## A
 
-- [AfricaOS](https://github.com/Africa-OS/Africa-OS) - Open source operating system built for African use cases.
+<!-- - [AfricaOS](https://github.com/Africa-OS/Africa-OS) - Open source operating system built for African use cases. -->
 
 ## B
 
-- [Bunifu](https://github.com/bunifudesign/bunifu) - Modern UI component library built by Ugandan designers.
+<!-- - [Bunifu](https://github.com/bunifudesign/bunifu) - Modern UI component library built by Ugandan designers. -->
 
 ## C
 
-- [ChapChap](https://github.com/chapchap/chapchap) - Mobile money integration library for African payment systems.
+<!-- - [ChapChap](https://github.com/chapchap/chapchap) - Mobile money integration library for African payment systems. -->
 
 ## D
 
-- [DevUg](https://github.com/devug/devug) - Developer resources and documentation for Ugandan tech.
+<!-- - [DevUg](https://github.com/devug/devug) - Developer resources and documentation for Ugandan tech. -->
 
 ## M
 
