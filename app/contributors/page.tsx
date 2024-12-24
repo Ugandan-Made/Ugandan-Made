@@ -7,7 +7,7 @@ export default async function Contributors() {
   // Fetch contributors from remote github
   const contributors = await getGithubContributors();
 
-  console.log("Contributors:", contributors);
+  // console.log("Contributors:", contributors);
 
   return (
     <div className="space-y-12">
