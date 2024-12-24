@@ -51,7 +51,7 @@ export default function Contribute() {
           your project or making changes:
         </p>
         <Link
-          href="https://github.com/madeinuganda/madeinuganda.dev/blob/main/CONTRIBUTE.md"
+          href="https://github.com/made-in-uganda/made-in-uganda/blob/main/CONTRIBUTING.md"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-yellow-400 text-gray-900 px-4 py-2 rounded hover:bg-yellow-500 transition duration-300 inline-block"
