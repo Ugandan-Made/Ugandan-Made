@@ -1,82 +1,70 @@
-# Ugandans Awesome Projects Collection
+# 🇺🇬 Made in Uganda
 
-A curated list of remarkable projects and tools developed by Ugandans.
+A collection of open source projects and tools built by Ugandan developers.
+
+> Note: Projects are organized alphabetically. When adding new projects, please ensure they are placed under the correct letter section. For multiple projects starting with the same letter, maintain alphabetical order within that section.
 
 ## 📚 Table of Contents
 
-- [Frontend Tools](#frontend-tools)
-- [Backend Tools](#backend-tools)
-- [Full Stack Projects](#full-stack-projects)
-- [Development Tools](#development-tools)
+- [A](#a)
+- [B](#b)
+- [C](#c)
+- [D](#d)
+- [E](#e)
+- [F](#f)
+- [G](#g)
+- [H](#h)
+- [I](#i)
+- [J](#j)
+- [K](#k)
+- [L](#l)
+- [M](#m)
+- [N](#n)
+- [O](#o)
+- [P](#p)
+- [Q](#q)
+- [R](#r)
+- [S](#s)
+- [T](#t)
+- [U](#u)
+- [V](#v)
+- [W](#w)
+- [X](#x)
+- [Y](#y)
+- [Z](#z)
 
-## Frontend Tools
+## A
 
-### React Component Libraries
+## B
 
-These libraries have helped me build better UIs faster:
+## C
 
-- [shadcn/ui](https://github.com/shadcn/ui) - Beautiful and accessible React components built with Radix UI and Tailwind CSS.
-- [tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
-- [radix-ui](https://github.com/radix-ui/primitives) - Open source UI component library.
+## D
 
-### Animation Libraries
+## M
 
-Great tools for adding motion to your projects:
+## S
 
-- [framer-motion](https://github.com/framer/motion) - Open source motion library for React.
-- [react-spring](https://github.com/pmndrs/react-spring) - Spring-physics based animation library.
+## U
 
-## Backend Tools
+## V
 
-### API Development
+## W
 
-Tools I use for building robust APIs:
+## X
 
-- [nextjs](https://github.com/vercel/next.js) - The React Framework for Production.
-- [express](https://github.com/expressjs/express) - Fast, unopinionated web framework for Node.js.
-- [nestjs](https://github.com/nestjs/nest) - Progressive Node.js framework.
+## Y
 
-### Database Tools
+## Z
 
-Helpful database utilities and ORMs:
+- [Z-JS](https://github.com/Z-Js-Framework/z-js) - The literally low mental overhead Js framework, that enhances html, css and javascript.
 
-- [prisma](https://github.com/prisma/prisma) - Modern database toolkit for TypeScript & Node.js.
-- [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that's fast and reliable.
+> End of list, Checkout how to contribute below
 
-## Full Stack Projects
+## Contributing
 
-Complete applications that showcase various technologies:
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to add your project to this list.
 
-- [cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for everyone.
-- [remotion](https://github.com/remotion-dev/remotion) - Create videos programmatically in React.
+## License
 
-## Development Tools
-
-Essential tools for development workflow:
-
-- [prettier](https://github.com/prettier/prettier) - Opinionated code formatter.
-- [eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
-- [typescript](https://github.com/microsoft/TypeScript) - JavaScript with syntax for types.
-
-## 🚀 Getting Started
-
-1. Clone this repository
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Run the development server:
-
-```bash
-npm run dev
-```
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](issues).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

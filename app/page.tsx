@@ -9,13 +9,30 @@ export default async function Home() {
       <section className="text-center py-12 sm:py-20 bg-yellow-400 rounded-lg text-gray-900">
         <h1 className="text-4xl sm:text-5xl font-bold mb-4">Made in Uganda</h1>
         <p className="text-xl sm:text-2xl mb-6 sm:mb-8">
-          Empowering Innovation, One Repo at a Time
+          Showcasing Uganda&apos;s Tech Innovations to the World
         </p>
         <Link
           href="/projects"
           className="bg-gray-900 text-yellow-400 px-6 sm:px-8 py-2 sm:py-3 rounded-lg hover:bg-gray-800 transition duration-300 text-base sm:text-lg font-semibold"
         >
           Explore Projects
+        </Link>
+      </section>
+
+      <section className="bg-gray-100 p-6 sm:p-8 rounded-lg text-center">
+        <h2 className="text-2xl sm:text-3xl font-bold mb-4">
+          Call for Contributions
+        </h2>
+        <p className="text-lg mb-6">
+          Are you or do you know of a developer creating innovative solutions in
+          Uganda? Share your project and let&apos;s showcase Ugandan tech talent
+          to the world!
+        </p>
+        <Link
+          href="/contribute"
+          className="bg-gray-900 text-yellow-400 px-6 sm:px-8 py-2 sm:py-3 rounded-lg hover:bg-gray-800 transition duration-300 text-base sm:text-lg font-semibold"
+        >
+          Contribute Now
         </Link>
       </section>
 
