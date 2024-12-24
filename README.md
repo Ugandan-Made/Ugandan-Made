@@ -1,6 +1,6 @@
-# My Awesome Project Collection
+# Ugandans Awesome Projects Collection
 
-A curated list of remarkable projects and tools I've found useful in my development journey.
+A curated list of remarkable projects and tools developed by Ugandans.
 
 ## 📚 Table of Contents
 
