@@ -6,7 +6,7 @@ export default function About() {
     <div className="space-y-12 sm:space-y-16">
       <section className="text-center py-12 sm:py-20 bg-yellow-400 rounded-lg text-gray-900">
         <h1 className="text-4xl sm:text-5xl font-bold mb-4">
-          About Made in Uganda
+          About Ugandan-Made
         </h1>
         <p className="text-xl sm:text-2xl mb-6">
           Showcasing Uganda&apos;s Tech Innovation to the World
@@ -19,7 +19,7 @@ export default function About() {
             Our Mission
           </h2>
           <p className="text-base sm:text-lg text-gray-700">
-            Made in Uganda is dedicated to showcasing the incredible tech talent
+            Ugandan-Made is dedicated to showcasing the incredible tech talent
             and innovation emerging from Uganda. We aim to connect Ugandan
             developers with global opportunities and inspire the next generation
             of tech entrepreneurs in East Africa.
@@ -77,7 +77,7 @@ export default function About() {
         </h2>
         <p className="text-base sm:text-lg text-gray-700 mb-6">
           Whether you&apos;re a developer, designer, or tech enthusiast,
-          there&apos;s a place for you in the Made in Uganda community.
+          there&apos;s a place for you in the Ugandan-Made community.
         </p>
         <Link
           href="/contributors"

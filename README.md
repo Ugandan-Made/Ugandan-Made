@@ -1,4 +1,4 @@
-# 🇺🇬 Made in Uganda
+# 🇺🇬 Ugandan-Made
 
 A collection of open source projects and tools built by Ugandan developers.
 

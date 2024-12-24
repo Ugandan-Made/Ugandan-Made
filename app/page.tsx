@@ -7,7 +7,7 @@ export default async function Home() {
   return (
     <div className="space-y-12 sm:space-y-16">
       <section className="text-center py-12 sm:py-20 bg-yellow-400 rounded-lg text-gray-900">
-        <h1 className="text-4xl sm:text-5xl font-bold mb-4">Made in Uganda</h1>
+        <h1 className="text-4xl sm:text-5xl font-bold mb-4">Ugandan-Made</h1>
         <p className="text-xl sm:text-2xl mb-6 sm:mb-8">
           Showcasing Uganda&apos;s Tech Innovations to the World
         </p>
@@ -67,7 +67,7 @@ export default async function Home() {
               address local challenges and inspire global innovation.
             </p>
             <p className="text-base sm:text-lg text-gray-700">
-              Made in Uganda showcases the vibrant tech ecosystem emerging from
+              Ugandan-Made showcases the vibrant tech ecosystem emerging from
               the Pearl of Africa, connecting talented developers with
               opportunities to shine on the world stage.
             </p>

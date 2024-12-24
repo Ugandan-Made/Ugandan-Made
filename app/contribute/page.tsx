@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Contribute() {
   return (
     <div className="space-y-8">
-      <h1 className="text-3xl font-bold mb-4">Contribute to Made in Uganda</h1>
+      <h1 className="text-3xl font-bold mb-4">Contribute to Ugandan-Made</h1>
 
       <section>
         <h2 className="text-2xl font-semibold mb-3">How to Contribute</h2>
@@ -31,10 +31,7 @@ export default function Contribute() {
           <li>The project must be created by a Ugandan developer or team.</li>
           <li>The project should have at least 15 stars on GitHub.</li>
           <li>The project should be open-source with a clear license.</li>
-          <li>
-            The project should be actively maintained (last update within the
-            past 6 months).
-          </li>
+          <li>The project should be actively maintained.</li>
           <li>
             The project should have clear documentation and a README file.
           </li>

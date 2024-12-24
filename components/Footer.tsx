@@ -5,7 +5,7 @@ const Footer = () => {
       <div className="container mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         <div>
           <h3 className="text-lg sm:text-xl font-bold mb-4 text-yellow-400">
-            Made in Uganda
+            Ugandan-Made
           </h3>
           <p className="text-sm sm:text-base">
             Showcasing the best tech innovations from Uganda to the world.
@@ -83,7 +83,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="container mx-auto mt-8 pt-8 border-t border-gray-700 text-center text-sm sm:text-base">
-        <p>&copy; 2024 Made in Uganda. All rights reserved.</p>
+        <p>&copy; 2024 Ugandan-Made. All rights reserved.</p>
       </div>
     </footer>
   );

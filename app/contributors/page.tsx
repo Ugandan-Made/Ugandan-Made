@@ -15,7 +15,7 @@ export default async function Contributors() {
         Our Contributors
       </h1>
       <p className="text-xl text-center mb-12 max-w-3xl mx-auto text-gray-700">
-        Meet the talented individuals who have contributed to Made in Uganda.
+        Meet the talented individuals who have contributed to Ugandan-Made.
         These developers, designers, and innovators are shaping the future of
         technology in Uganda and beyond.
       </p>
