@@ -15,14 +15,27 @@ export default async function Contributors() {
         Our Contributors
       </h1>
       <p className="text-xl text-center mb-12 max-w-3xl mx-auto text-gray-700">
-        Meet the talented individuals who have contributed to Ugandan-Made.
-        These developers, designers, and innovators are shaping the future of
-        technology in Uganda and beyond.
+        Meet the talented developers, designers, and innovators shaping the
+        future of open-source technology in Uganda. Join them and be part of
+        this growing community!
       </p>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4">
         {contributors.map((contributor: any) => (
           <ContributorCard key={contributor.id} contributor={contributor} />
         ))}
+      </div>
+
+      <div className="mt-8 text-center">
+        <p className="text-lg text-gray-700 mb-4">
+          Want to see your name here? Contribute to Ugandan-Made and help shape
+          the future of open-source technology in Uganda!
+        </p>
+        <a
+          href="/contribute"
+          className="inline-block bg-yellow-400 text-gray-900 px-4 py-2 rounded-lg text-sm font-semibold hover:bg-yellow-500 transition duration-300"
+        >
+          Contribute Now
+        </a>
       </div>
     </div>
   );

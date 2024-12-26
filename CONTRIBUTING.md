@@ -1,6 +1,6 @@
 # Contributing to Made in Uganda
 
-Thank you for your interest in contributing to the Made in Uganda project list! This document provides guidelines for contributions.
+Thank you for your interest in contributing to the Ugandan-Made project list! This document provides guidelines for contributions.
 
 ## How to Contribute
 

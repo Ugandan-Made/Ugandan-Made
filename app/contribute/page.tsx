@@ -12,12 +12,22 @@ export default function Contribute() {
           you can get involved:
         </p>
         <ol className="list-decimal list-inside space-y-2">
-          <li>Fork the Made in Uganda repository on GitHub.</li>
+          <li>
+            Fork the Ugandan-Made repository on GitHub.{" "}
+            <Link
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline text-blue-500"
+              href="https://github.com/Ugandan-Made/Ugandan-Made"
+            >
+              https://github.com/Ugandan-Made/Ugandan-Made
+            </Link>
+          </li>
           <li>Clone your forked repository to your local machine.</li>
           <li>Create a new branch for your contribution.</li>
           <li>Make your changes, following our contribution guidelines.</li>
           <li>Commit your changes and push to your fork.</li>
-          <li>Open a pull request to the main Made in Uganda repository.</li>
+          <li>Open a pull request to the main Ugandan-Made repository.</li>
         </ol>
       </section>
 
